@@ -1,0 +1,23 @@
+body
+{
+    background-color: cornflowerblue;
+    margin: 0px;
+    padding: 0px;
+
+    display:flex;
+    height: 100%;
+}
+
+#menu
+{
+    background-color: grey;
+    width: 20%;
+    float: left;
+}
+
+#cuerpo
+{
+    background-color: blueviolet;
+    width: 80%;
+    float: right;
+}
